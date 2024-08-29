@@ -4,7 +4,7 @@ const Menu=[
         image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcELxa4d2QHCdOqLulUYhAPuoB5yadBYBUQA&s",
         name:"maggi",
         category:"breakfast",
-        price:"12₹",
+        price:"15₹",
         description:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, adipisci!"    
     },
     {
